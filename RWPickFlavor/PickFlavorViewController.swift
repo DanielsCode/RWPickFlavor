@@ -8,6 +8,7 @@
 
 import UIKit
 import Alamofire
+import BetterBaseClasses
 import MBProgressHUD
 
 public class PickFlavorViewController: BaseViewController, UICollectionViewDelegate {
